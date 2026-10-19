@@ -4,12 +4,12 @@
 
 **PWA для ведения бюджета: доходы, расходы, категории, статистика — всё офлайн, всё на устройстве**
 
-[![Live Demo](https://img.shields.io/badge/Открыть-PWA-4f8cff?style=for-the-badge&logo=pwa&logoColor=white)](https://stuma467.github.io/budget-pwa/)
-[![Version](https://img.shields.io/badge/version-1.0-7a4dff?style=for-the-badge)](https://github.com/stuma467/budget-pwa/commits/main)
-[![Platform](https://img.shields.io/badge/platform-Web%20%2F%20iOS%20%2F%20Android-3ddc84?style=for-the-badge&logo=apple&logoColor=white)](https://stuma467.github.io/budget-pwa/)
-[![Offline](https://img.shields.io/badge/работает-офлайн-4f8cff?style=for-the-badge)](https://stuma467.github.io/budget-pwa/)
+[![Live Demo](https://img.shields.io/badge/Открыть-PWA-4f8cff?style=for-the-badge&logo=pwa&logoColor=white)](https://xtamsw.github.io/budget-pwa/)
+[![Version](https://img.shields.io/badge/version-1.0-7a4dff?style=for-the-badge)](https://github.com/xtamsw/budget-pwa/commits/main)
+[![Platform](https://img.shields.io/badge/platform-Web%20%2F%20iOS%20%2F%20Android-3ddc84?style=for-the-badge&logo=apple&logoColor=white)](https://xtamsw.github.io/budget-pwa/)
+[![Offline](https://img.shields.io/badge/работает-офлайн-4f8cff?style=for-the-badge)](https://xtamsw.github.io/budget-pwa/)
 
-[🚀 Открыть приложение](https://stuma467.github.io/budget-pwa/) · [💬 Telegram](https://t.me/xtamsw) · [📢 Новости](https://t.me/xtamsw_apk)
+[🚀 Открыть приложение](https://xtamsw.github.io/budget-pwa/) · [💬 Telegram](https://t.me/xtamsw) · [📢 Новости](https://t.me/xtamsw_apk)
 
 </div>
 
@@ -59,7 +59,7 @@
 
 ## 📥 Установка на iPhone
 
-1. Откройте приложение в **Safari**: 👉 [stuma467.github.io/budget-pwa](https://stuma467.github.io/budget-pwa/)
+1. Откройте приложение в **Safari**: 👉 [xtamsw.github.io/budget-pwa](https://xtamsw.github.io/budget-pwa/)
 2. Нажмите **«Поделиться»** → **«На экран Домой»**.
 3. Назовите — например, «Бюджет» — и добавьте.
 
@@ -67,7 +67,7 @@
 
 ## 📥 Установка на Android
 
-1. Откройте приложение в **Chrome**: 👉 [stuma467.github.io/budget-pwa](https://stuma467.github.io/budget-pwa/)
+1. Откройте приложение в **Chrome**: 👉 [xtamsw.github.io/budget-pwa](https://xtamsw.github.io/budget-pwa/)
 2. Меню ⋮ → **«Установить приложение»** (или «Добавить на главный экран»).
 
 ## ⚠️ Важно про данные
